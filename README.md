@@ -12,7 +12,7 @@ I like the fact that computer science is present in all environments, I am open 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/clémentine hoyez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clémentine hoyez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cl%C3%A9mentine-hoyez-11753a185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clémentine hoyez" height="30" width="40" /></a>
 </p>
 
 <br>
