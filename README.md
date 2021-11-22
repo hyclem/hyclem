@@ -59,5 +59,5 @@ I like the fact that computer science is present in all environments, I am open 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyclem&show_icons=true&locale=en&layout=compact" alt="hyclem" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyclem&show_icons=true&locale=en" alt="hyclem" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyclem&show_icons=true&locale=en" alt="hyclem" /></p>
+ -->
